@@ -10,8 +10,8 @@ import UIKit
 class ProfileView: UIView {
 
     @IBOutlet weak var name: UILabel!
-    @IBOutlet weak var city: UILabel!
     @IBOutlet weak var Birthday: UILabel!
-    @IBOutlet weak var textView: UITextView!
+    @IBOutlet weak var City: UILabel!
+    @IBOutlet weak var TextView: UITextView!
     
 }
